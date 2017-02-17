@@ -2,7 +2,7 @@
 
 name:          "Ruchika Lakhina"
 summary:       "Pursued B.Tech in Computer Science From University Institute of Engineering and Technology,MDU"
-image:         "avatar.jpg"
+#image:         "avatar.jpg"
 avatar:        "true"
 title:         "Software Developer"
 contact_email: "ruchikalakhina191194@gmail.com"
