@@ -3,4 +3,15 @@
 - recognition	:	"Programming Languages"
   #event		: 	"Safety Inspector"
   #date		: 	"Nov, 1990"
-  detail	: 	"C ,C++,PHP With MySQL, Java , Servlets, JSP"
+  detail	:  "C ,C++,PHP With MySQL, Java , Servlets, JSP"
+
+- recognition	:	"Database"
+  #event		: 	"Safety Inspector"
+  #date		: 	"Nov, 1990"
+  detail	:  "MySQL"
+
+- recognition	:	"Designing Tools"
+  #event		: 	"Safety Inspector"
+  #date		: 	"Nov, 1990"
+  detail	:  "HTML, CSS, Javascript"
+
