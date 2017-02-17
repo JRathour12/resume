@@ -1,7 +1,19 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- project : "donutfinder.io"
-  role : "Founder & Primary Developer"
-  from : "2012"
-  untill : "Present"
-  detail : "Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home."
+- project : "E-Shopping Cart Project  In PHP With MySQL"
+  role : " Developer:CICA Institute"
+  from : "22June,2014"
+  untill : "14August,2014"
+  detail : "Assists customers in online shopping"
+
+- project : "Auto Backup Utility Project In JAVA"
+  role : " Developer:Riser Technology and Services"
+  from : "1June,2015"
+  untill : "22 August,2015"
+  detail : "Copies all the data from source folder to the destination folder specified by the user automatically"
+
+- project : "Attendance Management and Effort Tracking System using JSP and Servlets"
+  role : " Developer:Wipro Limited"
+  from : "20 January,2016"
+  untill : "30 June,2016"
+  detail : "Manages the attendance of employees and also helps in tracking the efforts of employees"
