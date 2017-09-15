@@ -1,23 +1,23 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-name:          "Ruchika Lakhina"
+name:          "Jyoti Bala"
 summary:       "Pursued B.Tech in Computer Science From University Institute of Engineering and Technology,MDU"
 #image:         "avatar.jpg"
 avatar:        "true"
 title:         "Software Developer"
-contact_email: "ruchikalakhina191194@gmail.com"
-contact_info:  "ruchikalakhina191194@gmail.com"
+contact_email: "jyotiratour@gmail.com"
+contact_info:  "jyotiratour@gmail.com"
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 
 resume_social_links:
-  resume_github_url:            "https://github.com/lakhina/resume"
+  resume_github_url:            "https://github.com/JRathour12/resume"
   #resume_twitter_url:           "http://twitter.com/code_comm"
   # resume_dribbble_url:        "insert dribbble URL here"
   #resume_facebook_url:          "https://www.facebook.com/codecomm/"
   # resume_linkedin_url:        "insert linkedin URL here"
   # resume_instagram_url:       "insert your Instagram URL here"
   
-resume_website_url:           "https://www.polarisoffice.com/d/2RPf67e0"
+#resume_website_url:           "https://www.polarisoffice.com/d/2RPf67e0"
 resume_print_social_links:      true

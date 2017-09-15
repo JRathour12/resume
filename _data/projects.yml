@@ -1,19 +1,14 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- project : "E-Shopping Cart Project  In PHP With MySQL"
-  role : " CICA Institute"
-  from : "22June,2014"
-  untill : "14August,2014"
-  detail : "Assists customers in online shopping"
-
-- project : "Auto Backup Utility Project In JAVA"
-  role : " Riser Technology and Services"
+- project : "Time Management"
+  #role : " CICA Institute"
   from : "1June,2015"
-  untill : "22 August,2015"
-  detail : "Copies all the data from source folder to the destination folder specified by the user automatically"
+  untill : "14August,2015"
+  detail : "how much time spend in company by employees"
 
-- project : "Attendance Management and Effort Tracking System using JSP and Servlets"
-  role : " Wipro Limited"
-  from : "20 January,2016"
-  untill : "30 June,2016"
-  detail : "Manages the attendance of employees and also helps in tracking the efforts of employees"
+- project : "Employee Resource System"
+  role : " HCL CDC"
+  from : "1Febuary,2016"
+  untill : "31 july,2016"
+  detail : "Manages all activity of employees"
+
