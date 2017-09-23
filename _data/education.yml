@@ -1,23 +1,21 @@
 # Lines starting with '#' in yml files are commented and will not affect data
-
- school : "D A V Co_Education High School,Jagadhri Work Shop, Yamuna Nagar" 
- from : "2007"
+- school : "D A V Co_Education High School,Jagadhri Work Shop, Yamuna Nagar" 
+  from : "2007"
   untill : "2008"
   detail : "Secured 72% in X class from HBSE "
 
- school : "Govt Sr Sec School,Jagadhri Work Shop ,Yamuna Nagar"
-  
+- school : "Govt Sr Sec School,Jagadhri Work Shop ,Yamuna Nagar"
   from : "2009"
   untill : "2010"
   detail : "Secured 67% in XII class from HBSE "
 
-school : "Kalpana Chawla Govt. Polytechnic For Women,Ambala City"
+- school : "Kalpana Chawla Govt. Polytechnic For Women,Ambala City"
   degree : "Diploma in Computer Science"
   from : "2010"
   untill : "2013"
   detail : "Secured 72% in diploma from HSBTE"
 
- school : "University Institute of Engineering and Technology,Maharishi Dayanand University"
+ - school : "University Institute of Engineering and Technology,Maharishi Dayanand University"
   degree : "B.tech in Computer Science"
   from : "2013"
   untill : "2016"
